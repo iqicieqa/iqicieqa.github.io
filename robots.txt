@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iqicieqa.github.io/Ddo/sitemap_index.txt
+Sitemap: https://iqicieqa.github.io/KWu/sitemap_index.txt
+Sitemap: https://iqicieqa.github.io/gmt/sitemap_index.txt
+Sitemap: https://iqicieqa.github.io/vNc/sitemap_index.txt
